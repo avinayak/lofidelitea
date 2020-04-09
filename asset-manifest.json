@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lofidelitea/static/css/main.c7bddef3.chunk.css",
+    "main.js": "/lofidelitea/static/js/main.e1ad9aa8.chunk.js",
+    "main.js.map": "/lofidelitea/static/js/main.e1ad9aa8.chunk.js.map",
+    "runtime-main.js": "/lofidelitea/static/js/runtime-main.6bff696a.js",
+    "runtime-main.js.map": "/lofidelitea/static/js/runtime-main.6bff696a.js.map",
+    "static/js/2.1e393888.chunk.js": "/lofidelitea/static/js/2.1e393888.chunk.js",
+    "static/js/2.1e393888.chunk.js.map": "/lofidelitea/static/js/2.1e393888.chunk.js.map",
+    "index.html": "/lofidelitea/index.html",
+    "precache-manifest.0da3698d731aa7fa504cd0480c14c08d.js": "/lofidelitea/precache-manifest.0da3698d731aa7fa504cd0480c14c08d.js",
+    "service-worker.js": "/lofidelitea/service-worker.js",
+    "static/css/main.c7bddef3.chunk.css.map": "/lofidelitea/static/css/main.c7bddef3.chunk.css.map",
+    "static/js/2.1e393888.chunk.js.LICENSE.txt": "/lofidelitea/static/js/2.1e393888.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lofidelitea/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bff696a.js",
+    "static/js/2.1e393888.chunk.js",
+    "static/css/main.c7bddef3.chunk.css",
+    "static/js/main.e1ad9aa8.chunk.js"
+  ]
+}
